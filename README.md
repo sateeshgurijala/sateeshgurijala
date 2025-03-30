@@ -33,7 +33,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/sateeshgurijala
+[twitter]: https://x.com/sateeshgurijala
 [youtube]: https://www.youtube.com/c/sateeshgurijala
 [instagram]: https://www.instagram.com/sateeshgurijala/
 [linkedin]: https://linkedin.com/in/sateeshgurijala
