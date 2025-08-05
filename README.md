@@ -1,35 +1,16 @@
-<h1>Hi, I'm Sateesh! <br/><a href="https://github.com/sateeshgurijala">Programmer</a>, <a href="https://www.linkedin.com/in/sateeshgurijala/">Data Engineer</a></h1>
+## 👋 Hello World! I'm Sateesh
 
-<h2>👨‍💻 Data Engineering Projects:</h2>
+🚀 I'm a curious problem solver who enjoys building clean data pipelines, automating tasks, and exploring cloud-native tools.  
+🔍 Passionate about connecting data to decisions — always learning, always experimenting.
 
+---
 
+### ⚒️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,azure,gcp,aws,docker,kubernetes,terraform,linux,git&perline=15)](https://skillicons.dev)
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://x.com/sateeshgurijala
-[youtube]: https://www.youtube.com/c/sateeshgurijala
-[instagram]: https://www.instagram.com/sateeshgurijala/
-[linkedin]: https://linkedin.com/in/sateeshgurijala
-
-<!--
-**sateeshgurijala/sateeshgurijala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Connect
+[<img alt="LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin/" />](https://linkedin.com/in/sateeshgurijala)  
+[<img alt="X (Twitter)" width="30px" src="https://cdn.simpleicons.org/x/" />](https://x.com/sateeshgurijala)  
+[<img alt="Instagram" width="30px" src="https://cdn.simpleicons.org/instagram/" />](https://www.instagram.com/sateeshgurijala/)
